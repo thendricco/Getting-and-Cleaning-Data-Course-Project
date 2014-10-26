@@ -7,13 +7,19 @@ Signals were captures at a constant rate of 50Hz and then were filtered and tran
 For the purposes of this project, it was required that we only saved those variable information that contained the mean and standard deviation information. 
 
 Then the data was sorted out according to the subject and activity.
-The activities done are as follows:  
-*WALKING
-*WALKING_UPSTAIRS
-*WALKING_DOWNSTAIRS
-*SITTING
-*STANDING
-*LAYING
+The activities done are as follows:
+
+WALKING
+
+WALKING_UPSTAIRS
+
+WALKING_DOWNSTAIRS
+
+SITTING
+
+STANDING
+
+LAYING
 
 #Description of Data Steps
 The original test and train data sets contained 561 variables with a total of 10,299 observations.
