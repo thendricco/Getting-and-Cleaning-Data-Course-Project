@@ -10,8 +10,11 @@ Made use of the plyr and data.table package
 
 #Steps to follow to get the tidy data
 Download the data set from [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+
 Unzip into a folder.
+
 Download the script run_analysis.R to the base folder.
+
 Run the script and it will generate a file tidydata.txt
 
 #Codebook
